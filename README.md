@@ -1,15 +1,50 @@
 ## Tools and Libraries Used in VisionAI
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![Ultralytics](https://img.shields.io/badge/Ultralytics-41b883?style=flat&logo=ultralytics&logoColor=white)](https://ultralytics.com)
-[![Pillow](https://img.shields.io/badge/Pillow-3C1A74?style=flat&logo=pillow&logoColor=white)](https://python-pillow.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
-[![PyTesseract](https://img.shields.io/badge/PyTesseract-FF4500?style=flat)](https://github.com/madmaze/pytesseract)
-[![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/ai)
-[![LangChain](https://img.shields.io/badge/LangChain-0E76A8?style=flat)](https://langchain.com/)
-[![LangChain Core Messages](https://img.shields.io/badge/LangChain%20Core%20Messages-0E76A8?style=flat)](https://langchain.com/)
-[![PyTTSX3](https://img.shields.io/badge/PyTTSX3-9ACD32?style=flat)](https://pypi.org/project/pyttsx3/)
+This project leverages several powerful libraries and tools to provide a comprehensive solution for real-time scene understanding, object detection, and personalized assistance. Below is the list of key technologies used in VisionAI:
+
+### **Streamlit**  
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io)  
+Streamlit is an open-source app framework for creating data-driven web applications with Python. It is used for building the interactive web interface of VisionAI.
+
+### **Ultralytics**  
+[![Ultralytics](https://img.shields.io/badge/Ultralytics-41b883?style=flat&logo=ultralytics&logoColor=white)](https://ultralytics.com)  
+Ultralytics provides high-performance models for object detection and computer vision. It powers the real-time object detection capabilities in this project.
+
+### **Pillow**  
+[![Pillow](https://img.shields.io/badge/Pillow-3C1A74?style=flat&logo=pillow&logoColor=white)](https://python-pillow.org/)  
+Pillow is a Python Imaging Library that allows for efficient image processing. It is used for handling and manipulating images in the VisionAI project.
+
+### **OpenCV**  
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)  
+OpenCV is a comprehensive library for computer vision tasks. It’s used for image processing and scene understanding in VisionAI.
+
+### **Numpy**  
+[![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)  
+Numpy is the fundamental package for scientific computing in Python. It is used for numerical operations that power data processing in the VisionAI app.
+
+### **PyTesseract**  
+[![PyTesseract](https://img.shields.io/badge/PyTesseract-FF4500?style=flat)](https://github.com/madmaze/pytesseract)  
+PyTesseract is a Python wrapper for Google's Tesseract-OCR Engine. It enables Optical Character Recognition (OCR) to extract text from images, which is then converted to speech.
+
+### **Google Generative AI**  
+[![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/ai)  
+Google Generative AI is used to enhance the natural language capabilities of the VisionAI system. It helps generate descriptive content and assist with tasks.
+
+### **LangChain**  
+[![LangChain](https://img.shields.io/badge/LangChain-0E76A8?style=flat)](https://langchain.com/)  
+LangChain is a framework for developing applications powered by LLMs (Large Language Models). It is used to create conversational agents and handle contextual communication in VisionAI.
+
+### **LangChain Core Messages**  
+[![LangChain Core Messages](https://img.shields.io/badge/LangChain%20Core%20Messages-0E76A8?style=flat)](https://langchain.com/)  
+LangChain Core Messages provides the messaging interface for integrating communication models with AI systems, enabling interactive conversations and feedback.
+
+### **PyTTSX3**  
+[![PyTTSX3](https://img.shields.io/badge/PyTTSX3-9ACD32?style=flat)](https://pypi.org/project/pyttsx3/)  
+PyTTSX3 is a Python library that converts text to speech. It plays a critical role in providing the voice feedback for the VisionAI system, helping the visually impaired users interact with the app seamlessly.
+
+---
+
+### Explore the links to learn more about each library and tool used in VisionAI.
 
 
 # **VisionAI: AI-Powered Solution for Assisting Visually Impaired Individuals**
