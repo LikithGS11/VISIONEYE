@@ -74,9 +74,4 @@ To run this project locally, install the following:
 
 ---  
 
-## Installation and Setup  
 
-1. **Clone the Repository**  
-   ```bash  
-   git clone https://github.com/Angad143/Building-AI-Powered-Solution-for-Assisting-Visually-Impaired-Individuals.git
-   cd AI-Visually-Impaired-Solution  
