@@ -1,3 +1,11 @@
+
+---
+# **VisionAI: AI-Powered Solution for Assisting Visually Impaired Individuals**
+
+VisionAI is an innovative solution designed to empower visually impaired individuals by providing advanced real-time scene understanding, text-to-speech conversion, object detection, and personalized assistance. By leveraging cutting-edge AI technologies, VisionAI aims to create an intuitive and life-enhancing tool that enhances the user's ability to interact with and navigate their surroundings.
+
+---
+
 ## Tools and Libraries Used in VisionAI
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io)
@@ -12,11 +20,6 @@
 [![PyTTSX3](https://img.shields.io/badge/PyTTSX3-9ACD32?style=flat)](https://pypi.org/project/pyttsx3/)
 
 ---
-
-
-# **VisionAI: AI-Powered Solution for Assisting Visually Impaired Individuals**
-
-VisionAI is an innovative solution designed to empower visually impaired individuals by providing advanced real-time scene understanding, text-to-speech conversion, object detection, and personalized assistance. By leveraging cutting-edge AI technologies, VisionAI aims to create an intuitive and life-enhancing tool that enhances the user's ability to interact with and navigate their surroundings.
 
 ## **Key Features**
 
