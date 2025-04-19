@@ -1,18 +1,16 @@
-# **Tools and Libraries Used in Our Project**
+## Tools and Libraries Used in VisionAI
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" style="flex: 1 1 30%;">
-  <img src="https://img.shields.io/badge/Ultralytics-41b883?style=flat&logo=ultralytics&logoColor=white" alt="Ultralytics" style="flex: 1 1 30%;">
-  <img src="https://img.shields.io/badge/Pillow-3C1A74?style=flat&logo=pillow&logoColor=white" alt="Pillow" style="flex: 1 1 30%;">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" style="flex: 1 1 30%;">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="Numpy" style="flex: 1 1 30%;">
-  <img src="https://img.shields.io/badge/PyTesseract-FF4500?style=flat" alt="PyTesseract" style="flex: 1 1 30%;">
-  <img src="https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=flat&logo=google&logoColor=white" alt="Google Generative AI" style="flex: 1 1 30%;">
-  <img src="https://img.shields.io/badge/LangChain%20Google%20GenAI-0E76A8?style=flat" alt="LangChain Google GenAI" style="flex: 1 1 30%;">
-  <img src="https://img.shields.io/badge/LangChain%20Core%20Messages-0E76A8?style=flat" alt="LangChain Core Messages" style="flex: 1 1 30%;">
-  <img src="https://img.shields.io/badge/LangChain-0E76A8?style=flat" alt="LangChain" style="flex: 1 1 30%;">
-  <img src="https://img.shields.io/badge/PyTTSX3-9ACD32?style=flat" alt="PyTTSX3" style="flex: 1 1 30%;">
-</div> 
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Ultralytics](https://img.shields.io/badge/Ultralytics-41b883?style=flat&logo=ultralytics&logoColor=white)](https://ultralytics.com)
+[![Pillow](https://img.shields.io/badge/Pillow-3C1A74?style=flat&logo=pillow&logoColor=white)](https://python-pillow.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![PyTesseract](https://img.shields.io/badge/PyTesseract-FF4500?style=flat)](https://github.com/madmaze/pytesseract)
+[![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/ai)
+[![LangChain](https://img.shields.io/badge/LangChain-0E76A8?style=flat)](https://langchain.com/)
+[![LangChain Core Messages](https://img.shields.io/badge/LangChain%20Core%20Messages-0E76A8?style=flat)](https://langchain.com/)
+[![PyTTSX3](https://img.shields.io/badge/PyTTSX3-9ACD32?style=flat)](https://pypi.org/project/pyttsx3/)
+
 
 # **VisionAI: AI-Powered Solution for Assisting Visually Impaired Individuals**
 
