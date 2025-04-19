@@ -75,4 +75,5 @@ To run VisionAI locally, ensure the following dependencies are installed:
 - **Google Generative AI SDK**  
 - **OpenCV**: `pip install opencv-python`  
 - **PyTesseract**: `pip install pytesseract`
-
+  
+---
