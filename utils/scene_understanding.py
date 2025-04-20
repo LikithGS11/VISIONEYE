@@ -32,7 +32,7 @@ import base64
 
 def generate_scene_description(image_bytes):
     # Directly add your Gemini API key here
-    api_key = "AIzaSyBTxX7W7NUtQS6wmddROYLEPXQRo1pmJqw"
+    api_key = " " #ADD YOUR API KEY HERE 
 
     # Initialize the LangChain model with the Gemini API
     model = ChatGoogleGenerativeAI(model="gemini-1.5-flash", api_key=api_key)
