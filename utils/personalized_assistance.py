@@ -4,7 +4,7 @@ import google.generativeai as genai
 def provide_personalized_assistance(image):
     try:
         # Directly add your Gemini API key here
-        api_key = "AIzaSyBTxX7W7NUtQS6wmddROYLEPXQRo1pmJqw"
+        api_key = "  " #ADD YOUR API KEY HERE
 
         # Configure the Google API with the provided API key
         genai.configure(api_key=api_key)
